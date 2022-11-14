@@ -1,0 +1,19 @@
+html {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  
+}
+
+.animales{
+	list-style-type: lower-latin;
+	color:orange
+}
+
+.clasificacion{
+	color: red;	
+}
+
+.grupos{
+	list-style-type:lower-roman;
+	color:rgb(45, 113, 156);
+}
