@@ -6,14 +6,17 @@ html {
 
 .animales{
 	list-style-type: lower-latin;
-	color:orange
+	color:orange;
+	padding-left: 1rem;
 }
 
 .clasificacion{
-	color: red;	
+	color: red;
+	padding-left: 1rem;	
 }
 
 .grupos{
 	list-style-type:lower-roman;
 	color:rgb(45, 113, 156);
+	padding-left: 1rem;
 }
