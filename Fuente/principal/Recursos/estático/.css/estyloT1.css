@@ -1,0 +1,12 @@
+ @charset "UTF-8";
+      <style>
+          table,th,td {
+              border:.10px solid lightgreen;
+             border-collapse:collapse;
+          }
+          th{
+            -webkit-text-fill-color:white;
+            background-color: black;
+          
+        }
+          </style>
