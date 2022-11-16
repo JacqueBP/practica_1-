@@ -1,14 +1,23 @@
-    @charset "UTF-8";
-<style>
-    table,th,td {
+@charset "UTF-8";
+
+    table{
         border:.10px solid lightgreen;
-       border-collapse:collapse;
+        width: 80%;
     }
+
     th{
-      -webkit-text-fill-color:white;
-      background-color: black;
-    
-  }
+        border:.10px solid rgb(9, 252, 9);
+        text-align: left;
+        color:azure;
+        font-size: medium;
+        }
+   td{
+      
+    border:.10px solid rgb(9, 252, 9);
+        text-align: left;
+        color:rgb(85, 164, 238);
+        size: 10px;
+        }
   body{
     <img src="aguila.jpg" style = "width: 100px;">
     <img src="trucha.jpg" style = "width: 100px;">
