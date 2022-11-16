@@ -1,0 +1,27 @@
+    @charset "UTF-8";
+<style>
+    table,th,td {
+        border:.10px solid lightgreen;
+       border-collapse:collapse;
+    }
+    th{
+      -webkit-text-fill-color:white;
+      background-color: black;
+    
+  }
+  body{
+    <img src="aguila.jpg" style = "width: 100px;">
+    <img src="trucha.jpg" style = "width: 100px;">
+    <img src="tortuga.jpg" style = "width: 100px;">
+    <img src="perro.jpg" style = "width: 100px;">
+    <img src="escarabajo.jpg" style = "width: 100px;">
+    <img src="rana.jpg" style = "width: 100px;">
+
+    <img src="pinguino.jpg" style = "width: 100px;">
+    <img src="mantarraya.jpg" style = "width: 100px;">
+    <img src="iguana.jpg" style = "width: 100px;">
+    <img src="chango.jpg" style = "width: 100px;">
+    <img src="cangrejo.jpg" style = "width: 100px;">
+    <img src="salamadra.jpg" style = "width: 100px;">
+}
+    </style>
