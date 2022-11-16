@@ -1,0 +1,30 @@
+@charset "UTF-8";
+<style>
+tabla,th,td {
+boder:.10px verde claro sólido;
+bo der-collapse:collapse;
+          }
+          ésimo{
+            -webkit-text-fill-color: blanco;
+            fondo-color: negro;
+        }
+      Td{
+        -webkit-text-fill-color:aqua;
+      }
+
+  body{
+    <img src="aguila.jpg" style = "width: 100px;">
+    <img src="trucha.jpg" style = "width: 100px;">
+    <img src="tortuga.jpg" style = "width: 100px;">
+    <img src="perro.jpg" style = "width: 100px;">
+    <img src="escarabajo.jpg" style = "width: 100px;">
+    <img src="rana.jpg" style = "width: 100px;">
+
+    <img src="pinguino.jpg" style = "width: 100px;">
+    <img src="mantarraya.jpg" style = "width: 100px;">
+    <img src="iguana.jpg" style = "width: 100px;">
+    <img src="chango.jpg" style = "width: 100px;">
+    <img src="cangrejo.jpg" style = "width: 100px;">
+    <img src="salamadra.jpg" style = "width: 100px;">
+}
+    </style>
