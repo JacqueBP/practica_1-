@@ -6,7 +6,10 @@
           }
           th{
             -webkit-text-fill-color:white;
-            background-color: black;
-          
+            background-color: black; 
         }
+      td{
+        -webkit-text-fill-color: aqua;
+      }
+
           </style>
