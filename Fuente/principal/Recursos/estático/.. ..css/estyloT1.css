@@ -1,5 +1,5 @@
  @charset "UTF-8";
-< estilo>
+
 tabla,th,td {
 boder:.10px verde claro sólido;
 bo der-collapse:collapse;
@@ -12,4 +12,4 @@ bo der-collapse:collapse;
         -webkit-text-fill-color:aqua;
       }
 
-          </estilo>
+          
