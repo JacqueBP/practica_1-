@@ -1,0 +1,15 @@
+ @charset "UTF-8";
+
+tabla,th,td {
+boder:.10px verde claro sólido;
+bo der-collapse:collapse;
+          }
+          ésimo{
+            -webkit-text-fill-color: blanco;
+            fondo-color: negro;
+        }
+      Td{
+        -webkit-text-fill-color:aqua;
+      }
+
+          

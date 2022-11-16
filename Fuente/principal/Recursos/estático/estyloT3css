@@ -1,0 +1,21 @@
+ <style>
+        table{
+            border:.10px solid lightgreen;
+            width: 80%;
+        }
+    
+        th{
+            background-color: black;
+            border:.10px solid rgb(9, 252, 9);
+            text-align: left;
+            color:azure;
+            font-size: medium;
+            }
+       td{
+          
+        border:.10px solid rgb(9, 252, 9);
+            text-align: left;
+            color:rgb(85, 164, 238);
+            size: 10px;
+            }
+        </style>
