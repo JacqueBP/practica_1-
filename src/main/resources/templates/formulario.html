@@ -1,13 +1,60 @@
-
-<!doctype html>
-<html lang="es" xmlns:th="http://www.thymeleaf.org">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Formulario</title>
-  </head>
-  <body>
-  	
-    <h1>Formulario</h1>
-  </body>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Formulario</title>
+<link href="/css/formulario.css" rel="stylesheet" type:"text/css"/>
+</head>
+<body>
+<form action="formulario.php" method="post">
+  <fieldset>
+    <legend>Datos personales</legend>
+    Apellido Paterno:
+    <input type="text" name="Paterno" value="" />
+	Apellido Materno:
+    <input type="text" name="Materno" value="" />
+	Nombre:
+    <input type="text" name="nombre" value="" />
+    <br/><br/>
+    Nacionalidad:
+    <input type="text" name="nacionalidad" value="" />
+    RFC:
+    <input type="text" name="rfc" value="" size="10" maxlength="9" />
+    Fecha de Nacimiento:
+    <input type="date" name="nacimiento" value="" maxlength="10" />
+    CURP:
+    <input type="text" name="curp" value="" maxlength="10" />
+    <br/><br/>
+    Edad:
+    <input type="text" name="edad" value="" maxlength="10" />
+	Sexo:
+    <select name="select">
+	<option value="hombre">Hombre</option>
+	<option value="mujer">Mujer</option>
+	</select>
+	Estado Civil:
+    <input list="list" name="civil" value="" maxlength="10" />
+	<datalist id="list">
+	<option value="Soltero/a">
+	<option value="Casado/a">
+	<option value="Separado/a">
+	<option value="Divorciado/a">
+	<option value="Viudo/a">
+	<option value="Unión Libre">
+	</datalist>
+	Telefono:
+    <input type="text" name="telefono" value="" maxlength="10" />
+	Correo Electronico:
+    <input type="password" name="correo" value="" maxlength="10" />
+	<br/><br/>
+    Direccion:
+    <input type="text" name="direccion" value="" maxlength="10" />
+	No. Exter.:
+    <input type="text" name="externo" value="" maxlength="10" />
+	No.Inter.:
+    <input type="text" name="interno" value="" maxlength="10" />
+	Codigo Postal:
+    <input type="text" name="postal" value="" maxlength="10" />
+  </fieldset>
+</form>
+</body>
 </html>
